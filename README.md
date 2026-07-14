@@ -1,11 +1,11 @@
 # qa-login-testing-project
 ## Project Overview
-Este repositorio contiene un proyecto QA principiante enfocado en el tésting de la funcionalidad de login.Esto incluye Test cases,documentación de bugs,test data y el uso de Jira simulando un defecto básico en el seguimiento del workflow.
-## Objetives
--Diseñar test cases negativos y positivos
--Documentar defectos la estructura de software
--Practicar el uso de Jira para seguimiento de incidencias
-Construir un proyecto estable para el portafolio de un QA Junior
+This repository contains a beginner QA project focused on testing a login functionality.It includes test cases,bug documentation,test data and the use of Jira to simulate a basic defect tracking workflow.
+## Objectives
+- Design positive and negative test cases.
+- Document software defects in a structure way.
+- Practice the use of Jira for issue tracking.
+- Build a project suitable for a Junior QA portfolio.
 ## Tools Used
 ## Project Structure
 ## Test Cases
