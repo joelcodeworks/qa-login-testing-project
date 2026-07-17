@@ -12,7 +12,7 @@ This repository contains a beginner QA project focused on testing a login functi
 - GitHub (project repository)
 - Manual testing techniques
 ## Project Structure
-The project is organized into clearly defined sections,including project overview,test cases,test data,expect results,documented bugs and supporting documentation.This structure makes the project easy to review and understand.
+The project is organized into clearly defined sections,including project overview,test cases,test data,expected results,documented bugs and supporting documentation.This structure makes the project easy to review and understand.
 ## Test Cases
 ## Bug Reports
 ## Jira Workflow
