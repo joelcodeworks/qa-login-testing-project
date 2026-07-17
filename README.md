@@ -7,7 +7,12 @@ This repository contains a beginner QA project focused on testing a login functi
 - Practice the use of Jira for issue tracking.
 - Build a project suitable for a Junior QA portfolio.
 ## Tools Used
+- Notion (project documentation)
+- Jira (bug tracking and task management)
+- GitHub (project repository)
+- Manual testing techniques
 ## Project Structure
+The project is organized into clearly defined sections,including project overview,test cases,test data,expect results,documented bugs and supporting documentation.This structure makes the project easy to review and understand.
 ## Test Cases
 ## Bug Reports
 ## Jira Workflow
