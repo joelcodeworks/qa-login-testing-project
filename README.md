@@ -6,7 +6,7 @@ Este proyecto tiene como finalidad simular un proceso básico de pruebas funcion
 ## Objective
 Diseñar y documentar casos de prueba para la funcionalidad de inicio de sesión de una aplicación, aplicando conceptos básicos de QA como casos de prueba positivos y negativos, datos de prueba y documentación de resultados.
 ## Functionality Under Test
-
+The functionality under test is the login feature of a web application.The project focuses on validating successful login attempts with valid credentials and verifying how the system handles incorrect or incomplete login data
 ## Tools Used
 -Notion:Project documentation and organization
 -Jira:Task and bug tracking
