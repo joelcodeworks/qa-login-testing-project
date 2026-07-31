@@ -8,9 +8,9 @@ Diseñar y documentar casos de prueba para la funcionalidad de inicio de sesión
 ## Functionality Under Test
 The functionality under test is the login feature of a web application. The project focuses on validating successful login attempts with valid credentials and verifying how the system handles incorrect or incomplete login data
 ## Tools Used
--Notion:Project documentation and organization
--Jira:Task and bug tracking
--GitHub:Project repository and public documentation
+- **Notion:** Project documentation and organization.
+- **Jira:** Task and bug tracking.
+- **GitHub:** Project repository and public documentation.
 ## Project Structure
 ## Included Documentation
 ## Working Methodology
