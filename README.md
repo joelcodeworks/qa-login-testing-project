@@ -2,7 +2,7 @@
 ## Project Summary
 This project brings together test cases, bug documentation, basic Jira usage and structured information with the aim of representing a practical example of initial QA work.
 ## Project Scope
-This project aims to simulate a basic functional testing process for a login functionality.It includes test case definition, test data, bug documentation and issue tracking using tools commonly used by QA professionals.
+This project aims to simulate a basic functional testing process for a login functionality. It includes test case definition, test data, bug documentation and issue tracking using tools commonly used by QA professionals.
 ## Objective
 To design and document test cases for the login functionality of an application, applying basic QA concepts such as positive and negative test cases, test data and result documentation.
 ## Functionality Under Test
