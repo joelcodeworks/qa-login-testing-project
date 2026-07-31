@@ -1,10 +1,10 @@
 # QA Login Testing Project
 ## Project Summary
-Este proyecto reúne casos de prueba, documentación de incidencias, uso básico de Jira y una organización estructurada de la información con el objetivo de representar un ejemplo práctico del trabajo inicial en QA.
+This project brings together test cases, bug documentation, basic Jira usage and structured information with the aim of representing a practical example of initial QA work.
 ## Project Scope
-Este proyecto tiene como finalidad simular un proceso básico de pruebas funcionales sobre una funcionalidad de inicio de sesión.
+This project aims to simulate a basic functional testing process for a login functionality.It includes test case definition, test data, bug documentation and issue tracking using tools commonly used by QA professionals.
 ## Objective
-Diseñar y documentar casos de prueba para la funcionalidad de inicio de sesión de una aplicación, aplicando conceptos básicos de QA como casos de prueba positivos y negativos, datos de prueba y documentación de resultados.
+To design and document test cases for the login functionality of an application, applying basic QA concepts such as positive and negative test cases, test data and result documentation.
 ## Functionality Under Test
 The functionality under test is the login feature of a web application. The project focuses on validating successful login attempts with valid credentials and verifying how the system handles incorrect or incomplete login data
 ## Tools Used
