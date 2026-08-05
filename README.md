@@ -19,19 +19,27 @@ The functionality under test is the login feature of a web application. The proj
 ### Positive Test Cases
 #### Test Case 1: Login with valid credentials
 **Description:** Verify that a registered user can log in successfully by entering a valid username and password.
+
+
 **Expected result:** The system successfully authenticates the user after valid credentials are entered and redirects the user to the application's main page without displaying any error messages.
 
 #### Test Case 2: Login with valid credentials using the Enter key
 **Description:** Verify that the user can log in successfully by pressing the Enter key after entering valid credentials, without having to click the Login button.
+
+
 **Expected result:** The system successfully authenticates the user when the Enter key is pressed after valid credentials are entered and redirects the user to the main page without displaying any errors.
 
 ### Negative Test Cases
 #### Test Case 1: Login with an incorrect password
 **Description:** Verify that the system prevents access when a registered user enters an incorrect password and displays an appropriate error message.
+
+
 **Expected result:** The system prevents access when an incorrect password is entered and displays a clear error message without allowing the user to log in.
 
 #### Test Case 2: Login with an empty password field
 **Description:** Verify that the system does not allow the user to log in when a valid username is entered but the password field is left empty, and displays an appropriate validation message.
+
+
 **Expected Result:** The system prevents the login attempt when the password field is empty and displays an appropriate validation message.
 
 ## Test Data
