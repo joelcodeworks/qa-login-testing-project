@@ -43,7 +43,14 @@ The functionality under test is the login feature of a web application. The proj
 **Expected Result:** The system prevents the login attempt when the password field is empty and displays an appropriate validation message.
 
 ## Test Data
+| Caso | Usuario | Contraseña | Resultado esperado |
+| --- | --- | --- | --- |
+| Positivo 1 | usuario_valido | contraseña_valida | Inicio de sesiòn correcto |
+| Positivo 2 | usuario_valido | contraseña_valida | Inicio de sesiòn correcto usando “Enter” |
+| Negativo 1 | usuario_valido | contraseña_incorrecta | Mensaje de error |
+| Negativo 2 | usuario_valido | (vacía) | Mensaje de validaciòn |
 ## Expected Results
+Each test case defines the expected behavior of the application when te test is executed.The expected results are used to compare the actual outcome with the expected behavior and determine whether the test has passed or failed.
 ## Bug Reports
 ## Demonstrated Skills
 ## Target Audience
