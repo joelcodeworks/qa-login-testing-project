@@ -50,7 +50,7 @@ The functionality under test is the login feature of a web application. The proj
 | Negative 1 | valid_user | incorrect_password | Error message displayed |
 | Negative 2 | valid_user | (empty) | Validation message displayed |
 ## Expected Results
-Each test case defines the expected behavior of the application when the test is executed.The expected results are used to compare the actual outcome with the expected behavior and determine whether the test has passed or failed.
+Each test case defines the expected behavior of the application when the test is executed. The expected results are used to compare the actual outcome with the expected behavior and determine whether the test has passed or failed.
 ## Bug Reports
 ## Demonstrated Skills
 ## Target Audience
