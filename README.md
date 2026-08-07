@@ -52,6 +52,8 @@ The functionality under test is the login feature of a web application. The proj
 ## Expected Results
 Each test case defines the expected behavior of the application when the test is executed. The expected results are used to compare the actual outcome with the expected behavior and determine whether the test has passed or failed.
 ## Bug Reports
+### Bug 001
+### Bug 002
 ## Demonstrated Skills
 ## Target Audience
 ## Learning Outcomes
