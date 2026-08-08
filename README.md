@@ -53,6 +53,37 @@ The functionality under test is the login feature of a web application. The proj
 Each test case defines the expected behavior of the application when the test is executed. The expected results are used to compare the actual outcome with the expected behavior and determine whether the test has passed or failed.
 ## Bug Reports
 ### Bug 001
+Title:Login does not respond when pressing the Enter key
+
+Related to:Positive Test Case 2
+
+Steps to reproduce:
+1:Open the login page
+2:Enter a valid username
+3:Enter a valid password
+4:Press the Enter key
+5:Observe the application´s behavior
+
+Expected Result:The application should log in successfully when the Enter key is pressed after valid credentials have been entered, redirecting the user to the main page without requiring a click on the Login button.
+
+Actual Result:The application does not log in when the Enter key is pressed.The user remains on the login page and must manually click the Login button to access the application.
+
+Severity:High
+
+Priority:High
+
+Priority Justification:High priority is assigned because the issue affects one of the applications´s core functionalities(user login),although a temporary workaround is available by clicking the Login button.
+
+Conclusions:
+
+Project Status:Two positive test cases and two negative test cases have been defined.
+
+Notes:This bug affects the user experience because a common action, such as pressing the Enter key to submit a form, does not work as expected.Although an alternative exists (clicking the Login button),the behavior is not consistent with the expected functionality.
+
+Impact:This issue affects one of the application´s essential functionalities, making access more difficult for users who commonly use the Enter key to submit forms.Although the Login button provides a functional workaround, the overall user experience is negatively affected.
+
+Follow-up Status:Pending review and correction by development team.
+
 ### Bug 002
 ## Demonstrated Skills
 ## Target Audience
