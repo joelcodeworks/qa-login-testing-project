@@ -115,7 +115,7 @@ Each test case defines the expected behavior of the application when the test is
 
 **Priority Justification:** Medium priority is assigned because the core functionality remains operational, but the quality of the user experience is affected by the lack of clarity in the displayed message.
 
-**Status:**:To Do
+**Status**:To Do
 
 **Conclusions:**
 
