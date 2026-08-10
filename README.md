@@ -49,10 +49,14 @@ The functionality under test is the login feature of a web application. The proj
 | Positive 2 | valid_user | valid_password | Successful login using the Enter key |
 | Negative 1 | valid_user | incorrect_password | Error message displayed |
 | Negative 2 | valid_user | (empty) | Validation message displayed |
+
 ## Expected Results
 Each test case defines the expected behavior of the application when the test is executed. The expected results are used to compare the actual outcome with the expected behavior and determine whether the test has passed or failed.
+
 ## Bug Reports
+
 ### Bug 001
+
 **Title:** Login does not respond when pressing the Enter key
 
 **Related to:** Positive Test Case 2
