@@ -89,6 +89,37 @@ Each test case defines the expected behavior of the application when the test is
 **Follow-up Status:** Pending review and correction by the development team.
 
 ### Bug 002
+**Title:** Unclear error message when entering an incorrect password
+**Related to:** Negative Test Case 1
+**Steps to Reproduce:**
+1. Open the login page.
+2. Enter a valid username.
+3. Enter an incorrect password.
+4. Click the Login button.
+5. Observe the displayed message.
+
+**Expected Result:** The application should display a clear and informative error message indicating that the password is incorrect, allowing the user to correct the entered data.
+
+**Actual Result:** The application displays a generic error message when an incorrect password is entered. The message does not clearly indicate what the problem is or provide guidance to the user on how to correct it.
+
+**Severity:** Medium
+
+**Priority:** Medium
+
+**Priority Justification:** Medium priority is assigned because the core functionality remains operational, but the quality of the user experience is affected by the lack of clarity in the displayed message.
+
+**Status:**:To DO
+
+**Conclusions:**
+
+**Project Status:** Two possitive test cases and two negative test cases have been defined.
+
+**Notes:** This issue is related to the quality of communication with the user rather han a functional failure of authentication process.
+
+**Impact:** This issue primarily affects the user experience, as an unclear error message can use confusion and make it ore difficult for the user to understand why they were unable to log in.
+
+**Follow-uo Status:** Pending review and improvement by the development team to provide clearer and more useful error messages to the user.
+
 ## Demonstrated Skills
 ## Target Audience
 ## Learning Outcomes
