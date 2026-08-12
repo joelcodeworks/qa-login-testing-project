@@ -128,8 +128,12 @@ Each test case defines the expected behavior of the application when the test is
 **Follow-up Status:** Pending review and improvement by the development team to provide clearer and more useful error messages to the user.
 
 ## Demonstrated Skills
+This project demonstrates basic skills in test case design, bug documentation, evidence organization, task tracking, and the use of tools commonly used by QA professionals.
+
 ## Target Audience
 ## Learning Outcomes
+This project provided practical experience in organizing tests, documentation bugs, using basic project management tools, and preparing evidence for a professional QA portfolio. It also reinforced the importance of clear documentation, consistent organization, and continuous review to improve the quality and clarity of the work.
+
 ## Lessons Learned
 ## Project Value
 ## Possible Future Improvements
