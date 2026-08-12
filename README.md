@@ -132,7 +132,9 @@ This project demonstrates basic skills in test case design, bug documentation, e
 
 ## Target Audience
 ## Learning Outcomes
-This project provided practical experience in organizing tests, documentation bugs, using basic project management tools, and preparing evidence for a professional QA portfolio. It also reinforced the importance of clear documentation, consistent organization, and continuous review to improve the quality and clarity of the work.
+This project provided practical experience in organizing tests, documenting bugs, using basic project management tools, and preparing evidence for a professional QA portfolio. It also reinforced the importance of clear documentation, consistent organization, and continuous review to improve the quality and clarity of the work.
+
+## Project Evidence
 
 ## Lessons Learned
 ## Project Value
