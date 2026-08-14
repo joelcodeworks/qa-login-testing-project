@@ -135,7 +135,28 @@ This project demonstrates basic skills in test case design, bug documentation, e
 This project provided practical experience in organizing tests, documenting bugs, using basic project management tools, and preparing evidence for a professional QA portfolio. It also reinforced the importance of clear documentation, consistent organization, and continuous review to improve the quality and clarity of the work.
 
 ## Project Evidence
+### Project Board
+![Project Board](evidence/Project%20Board%201.png)
 
+![Project Board](evidence/Project%20Board%202.png)
+
+### Main Task
+![Main Task](evidence/Main%20Task.png)
+
+### Bug 001
+![Bug 001](evidence/Bug%20001.png)
+
+### Bug 002
+![Bug 002](evidence/Bug%20002.png)
+
+### Bugs Overview
+![Bugs Overview](evidence/Bugs%20Overview.png)
+
+![Bugs Overview](evidence/Bugs%20Overview%202.png)
+
+![Bugs Overview](evidence/Bugs%20Overview%203.png)
+
+## 
 ## Lessons Learned
 ## Project Value
 ## Possible Future Improvements
