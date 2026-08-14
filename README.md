@@ -155,8 +155,7 @@ This project provided practical experience in organizing tests, documenting bugs
 ![Bugs Overview](evidence/Bugs%20Overview%202.png)
 
 ![Bugs Overview](evidence/Bugs%20Overview%203.png)
-
-## 
+ 
 ## Lessons Learned
 ## Project Value
 ## Possible Future Improvements
