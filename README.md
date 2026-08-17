@@ -158,7 +158,7 @@ Jira evidence for Bug 001, showing the bug description, reproduction steps, expe
 ![Bug 001](evidence/Bug%20001.png)
 
 ### Bug 002
-Jira evidence for Bug 002, showing the bug description, reproduction steps, expected result, actual result, priority and follow-up status.
+Jira evidence for Bug 002, showing the bug description, reproduction steps, expected result, actual result, severity, priority and follow-up status.
 
 ![Bug 002](evidence/Bug%20002.png)
 
