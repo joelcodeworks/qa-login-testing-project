@@ -135,24 +135,43 @@ This project demonstrates basic skills in test case design, bug documentation, e
 This project provided practical experience in organizing tests, documenting bugs, using basic project management tools, and preparing evidence for a professional QA portfolio. It also reinforced the importance of clear documentation, consistent organization, and continuous review to improve the quality and clarity of the work.
 
 ## Project Evidence
+
+Note: The screenshots below provide visual evidence of the work carried out in Jira. The Jira interface, bug descriptions, comments and activity history are shown in their original language, while the project documentation in this repository has been prepared in English for portfolio presentation.
+
 ### Project Board
+The Jira project board showing the main project task and the current status of the project activities.
+
 ![Project Board](evidence/Project%20Board%201.png)
+
+Additional Jira project board evidence showing the organization and tracking of the project activities.
 
 ![Project Board](evidence/Project%20Board%202.png)
 
 ### Main Task
+The main Jira task containing the project information, objectives and work being carried out.
+
 ![Main Task](evidence/Main%20Task.png)
 
 ### Bug 001
+Jira evidence for Bug 001, showing the bug description, reproduction steps, expected result, actual result, severity, priority and follow-up status.
+
 ![Bug 001](evidence/Bug%20001.png)
 
 ### Bug 002
+Jira evidence for Bug 002, showing the bug description, reproduction steps, expected result, actual result, priority and follow-up status.
+
 ![Bug 002](evidence/Bug%20002.png)
 
 ### Bugs Overview
+Jira overview showing the documented bugs and their organization within the project.
+
 ![Bugs Overview](evidence/Bugs%20Overview.png)
 
+Additional Jira overview evidence showing the documented bug information and project tracking details.
+
 ![Bugs Overview](evidence/Bugs%20Overview%202.png)
+
+Additional Jira evidence showing the available bug information and the organization of the documented issues.
 
 ![Bugs Overview](evidence/Bugs%20Overview%203.png)
  
