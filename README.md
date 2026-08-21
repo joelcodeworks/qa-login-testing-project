@@ -18,6 +18,8 @@ The project is organized into sections covering the project objective, test case
 This project includes positive and negative test cases, examples of documented bugs, basic task tracking in Jira, and a structure prepared for presentation as part of a professional QA portfolio.
 
 ## Working Methodology
+The project was developed incrementally, with each stage documented and the structure reviewed periodically to maintain consistency and support future improvements.
+
 ## Applied Best Practices
 ## Test Cases
 ### Positive Test Cases
