@@ -12,6 +12,7 @@ The functionality under test is the login feature of a web application. The proj
 - **Jira:** Task and bug tracking.
 - **GitHub:** Project repository and public documentation.
 ## Project Structure
+The project is organized into sections covering the project objetive, test cases, test data, bug documentation, and task tracking through Jira, providing clear navigation and organized review of the project content.
 ## Included Documentation
 ## Working Methodology
 ## Applied Best Practices
