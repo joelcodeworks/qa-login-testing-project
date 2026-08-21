@@ -15,7 +15,7 @@ The functionality under test is the login feature of a web application. The proj
 The project is organized into sections covering the project objective, test cases, test data, bug documentation, and task tracking through Jira, providing clear navigation and organized review of the project content.
 
 ## Included Documentation
-This project includes positive and negative test cases, examples of documentated bugs, basic task tracking in Jira, and a estructure prepared for presentation as part of a professional QA portfolio.
+This project includes positive and negative test cases, examples of documented bugs, basic task tracking in Jira, and a structure prepared for presentation as part of a professional QA portfolio.
 
 ## Working Methodology
 ## Applied Best Practices
