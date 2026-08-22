@@ -200,3 +200,4 @@ This project provides practical evidence of basic QA knowledge and demonstrates 
 Future versions of the project could include additional test cases, new testing scenarios, test automation, and expanded technical documentation.
 
 ## General Conclusion
+This project represents a solid foundation of practical QA learning and provides an example of the process followed to gain experience with tools and documentation commonly used in the industry.
