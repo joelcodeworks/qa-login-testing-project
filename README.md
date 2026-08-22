@@ -21,6 +21,8 @@ This project includes positive and negative test cases, examples of documented b
 The project was developed incrementally, with each stage documented and the structure reviewed periodically to maintain consistency and support future improvements.
 
 ## Applied Best Practices
+Throughout the project, a consistent structure, organized documentation, and continuous content review were maintained to improve clarity and facilitate understanding.
+
 ## Test Cases
 ### Positive Test Cases
 #### Test Case 1: Login with valid credentials
