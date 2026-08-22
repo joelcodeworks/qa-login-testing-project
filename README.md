@@ -191,6 +191,8 @@ Additional Jira evidence showing the available bug information and the organizat
 ![Bugs Overview](evidence/Bugs%20Overview%203.png)
  
 ## Lessons Learned
+Developing this project reinforced the importance of clear documentation, consistent organization, and continuous review to improve the quality of the work produced.
+
 ## Project Value
 ## Possible Future Improvements
 ## General Conclusion
