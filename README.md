@@ -197,4 +197,6 @@ Developing this project reinforced the importance of clear documentation, consis
 This project provides practical evidence of basic QA knowledge and demonstrates an organized working methodology that can support a professional portfolio.
 
 ## Possible Future Improvements
+Future versions of the project could include additional test cases, new testing scenarios, test automation, and expanded technical documentation.
+
 ## General Conclusion
