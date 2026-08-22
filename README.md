@@ -1,16 +1,21 @@
 # QA Login Testing Project
 ## Project Summary
 This project brings together test cases, bug documentation, basic Jira usage and structured information with the aim of representing a practical example of initial QA work.
+
 ## Project Scope
 This project aims to simulate a basic functional testing process for a login functionality. It includes test case definition, test data, bug documentation and issue tracking using tools commonly used by QA professionals.
+
 ## Objective
 To design and document test cases for the login functionality of an application, applying basic QA concepts such as positive and negative test cases, test data and result documentation.
+
 ## Functionality Under Test
-The functionality under test is the login feature of a web application. The project focuses on validating successful login attempts with valid credentials and verifying how the system handles incorrect or incomplete login data
+The functionality under test is the login feature of a web application. The project focuses on validating successful login attempts with valid credentials and verifying how the system handles incorrect or incomplete login data.
+
 ## Tools Used
 - **Notion:** Project documentation and organization.
 - **Jira:** Task and bug tracking.
 - **GitHub:** Project repository and public documentation.
+  
 ## Project Structure
 The project is organized into sections covering the project objective, test cases, test data, bug documentation, and task tracking through Jira, providing clear navigation and organized review of the project content.
 
@@ -139,7 +144,7 @@ Each test case defines the expected behavior of the application when the test is
 This project demonstrates basic skills in test case design, bug documentation, evidence organization, task tracking, and the use of tools commonly used by QA professionals.
 
 ## Target Audience
-This project is intended to demonstrate and organized working methodology and a practical foundation of knowledge for Junior QA recruitment processes.
+This project is intended to demonstrate and organized working methodology an a practical foundation of knowledge for Junior QA recruitment processes.
 
 ## Learning Outcomes
 This project provided practical experience in organizing tests, documenting bugs, using basic project management tools, and preparing evidence for a professional QA portfolio. It also reinforced the importance of clear documentation, consistent organization, and continuous review to improve the quality and clarity of the work.
