@@ -194,5 +194,7 @@ Additional Jira evidence showing the available bug information and the organizat
 Developing this project reinforced the importance of clear documentation, consistent organization, and continuous review to improve the quality of the work produced.
 
 ## Project Value
+This project provides practical evidence of basic QA knowledge and demonstrates an organized working methodology that can support a professional portfolio.
+
 ## Possible Future Improvements
 ## General Conclusion
